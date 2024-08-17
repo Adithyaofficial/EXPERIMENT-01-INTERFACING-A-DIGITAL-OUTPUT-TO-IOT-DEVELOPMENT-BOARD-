@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 17.08.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: ADITYAH M S
+###  ROLL NO : 212223220002
+###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 
 
@@ -92,7 +92,8 @@ The main features of LPC2148 include the following.
 
 
 ## OUTPUT  :
- 
+ ![Screenshot 2024-08-16 231339](https://github.com/user-attachments/assets/84449d09-317c-489f-89a5-af556df5e95a)
+
  
  
  
